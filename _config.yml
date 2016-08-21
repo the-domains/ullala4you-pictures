@@ -6,9 +6,13 @@ color:
   saturation: 0.3917247811332345
   rhythmicContrast: 0.8056079833768308
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#3581CF'
-    - '#97BADA'
-    - '#8F5349'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: ullala4you Pictures
+navigation:
+  - name: About
+    url: 'http://www.ullala.ch/ueber/'
+    type: external
